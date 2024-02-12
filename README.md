@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Bittencurt</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thebittencode&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Senior Software Engineer, helping people see that being a programmer is worth the effort.
+- 🔥 Software Engineer, helping people see that being a programmer is worth the effort.
 
 - 🔭 I’m currently working at [NearForm](https://www.nearform.com/)
 
