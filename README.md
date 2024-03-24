@@ -3,8 +3,6 @@
 
 - 🔥 Software Engineer, helping people see that being a programmer is worth the effort.
 
-- 🔭 I’m currently working at [NearForm](https://www.nearform.com/)
-
 - ▶️ I regularly post content at Instagram on [thebittencode](https://www.instagram.com/thebittencode/)
 
 - 💬 Ask me about **JavaScript, Node.JS, React and career**
